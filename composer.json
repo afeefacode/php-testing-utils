@@ -1,0 +1,23 @@
+{
+    "name": "afeefa/php-testing-utils",
+    "description": "Common testing utils useful in php tests.",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/afeefacode/php-testing-utils",
+    "authors": [
+        {
+            "name": "Afeefa Kollektiv",
+            "email": "kollektiv@afeefa.de"
+        }
+    ],
+    "require": {
+      "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Afeefa\\Component\\TestingUtils\\": "src"
+        }
+    },
+    "require-dev": {
+    }
+}
