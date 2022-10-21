@@ -1,6 +1,6 @@
 {
     "name": "afeefa/php-testing-utils",
-    "version": "0.0.30",
+    "version": "0.0.31",
     "description": "Common testing utils useful in php tests.",
     "type": "library",
     "license": "MIT",
